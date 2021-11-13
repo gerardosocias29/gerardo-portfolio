@@ -11,12 +11,13 @@
   font-weight: bold;
 }
 
+.about__wrapper p {
+  text-align: center;
+}
+
 .about__name {
   color: var(--clr-primary);
   border-right: 2px solid var(--clr-primary);
-  white-space: nowrap;
-  overflow: hidden;
-  /*transform: translateY(-50%);*/
   font-family: monospace;
   margin-left: 10px;
 }
@@ -60,7 +61,7 @@
 
 @media (max-width: 600px) {
   .app .about {
-    align-items: flex-start;
+    /*align-items: flex-start;*/
     margin-top: 2em;
   }
 }

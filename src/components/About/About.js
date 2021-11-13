@@ -30,7 +30,7 @@ const About = () => {
       {name && (
         <div className='about__wrapper'>
           
-          <p className='about__name anim'><Typing defaultText="Hi, I am " name={name}/></p>
+          <p><span className='about__name anim'><Typing defaultText="Hi, I am " name={name}/></span></p>
         </div>
       )}
 

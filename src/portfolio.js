@@ -9,11 +9,11 @@ const about = {
   name: 'Gerardo Socias Jr.',
   role: 'Web Developer',
   description:
-    'Passionate on Web Development, has strong analytical and thinking skills and loves coding ❤. Currently exploring something new and learning on React Native Development. ',
+    'Passionate on Web Development, has strong analytical and thinking skills and loves coding ❤. Currently exploring and willing to learn new things and currently learning on React Native Development. ',
   resume: 'https://example.com',
   social: {
-    linkedin: 'https://linkedin.com',
-    github: 'https://github.com',
+    linkedin: 'https://linkedin.com/in/gerardosociasjr',
+    github: 'https://github.com/gerardosocias29/',
     facebook: 'https://www.facebook.com/gerardo.gwapo.socias',
   },
 }
@@ -33,8 +33,8 @@ const projects = [
         icon: 'fortawesome',
       }
     ],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+    sourceCode: 'https://github.com/gerardosocias29/gerardo-portfolio',
+    livePreview: '/',
   }
 ]
 
