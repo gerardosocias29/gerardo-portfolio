@@ -1,6 +1,6 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://gerardosocias29.github.io',
+  homepage: 'https://gerardosocias29.github.io/gerardo-portfolio',
   title: 'GS.',
 }
 
@@ -10,7 +10,7 @@ const about = {
   role: 'Web Developer',
   description:
     'Passionate on Web Development, has strong analytical and thinking skills and loves coding ❤. Currently exploring and willing to learn new things and currently learning on React Native Development. ',
-  resume: 'https://example.com',
+  // resume: 'https://example.com',
   social: {
     linkedin: 'https://linkedin.com/in/gerardosociasjr',
     github: 'https://github.com/gerardosocias29/',
@@ -43,7 +43,7 @@ const experiences = [
     name: 'Gwion Solutions',
     position: 'Web Developer',
     year: 'April 2019 - May 2020',
-    description: 'Develop and maintain the web system, build websites, version control, added new features to the system and integration to third-party software using REST api.',
+    description: 'Develop and maintain the web system, build websites, database management, version control, added new features to the system and integration to third-party software using REST api.',
     stack: [
       {
         name: 'HTML',
@@ -85,7 +85,7 @@ const experiences = [
     name: 'Incramind Development Inc.',
     position: 'Software Developer',
     year: 'August 2020 - Present',
-    description: 'Build website extensions, develop website themes and maintain website stability using their own environment.',
+    description: 'Build website extensions, facebook api, develop website themes and maintain website stability using their own environment.',
     stack:[
       {
         name: 'HTML',

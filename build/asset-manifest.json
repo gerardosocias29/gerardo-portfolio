@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/gerardo-portfolio/static/css/main.23153c88.chunk.css",
-    "main.js": "/gerardo-portfolio/static/js/main.142909fe.chunk.js",
-    "main.js.map": "/gerardo-portfolio/static/js/main.142909fe.chunk.js.map",
+    "main.css": "/gerardo-portfolio/static/css/main.190433a5.chunk.css",
+    "main.js": "/gerardo-portfolio/static/js/main.b441ef38.chunk.js",
+    "main.js.map": "/gerardo-portfolio/static/js/main.b441ef38.chunk.js.map",
     "runtime-main.js": "/gerardo-portfolio/static/js/runtime-main.b346e50d.js",
     "runtime-main.js.map": "/gerardo-portfolio/static/js/runtime-main.b346e50d.js.map",
     "static/js/2.ba8e284e.chunk.js": "/gerardo-portfolio/static/js/2.ba8e284e.chunk.js",
     "static/js/2.ba8e284e.chunk.js.map": "/gerardo-portfolio/static/js/2.ba8e284e.chunk.js.map",
     "index.html": "/gerardo-portfolio/index.html",
-    "static/css/main.23153c88.chunk.css.map": "/gerardo-portfolio/static/css/main.23153c88.chunk.css.map",
+    "static/css/main.190433a5.chunk.css.map": "/gerardo-portfolio/static/css/main.190433a5.chunk.css.map",
     "static/js/2.ba8e284e.chunk.js.LICENSE.txt": "/gerardo-portfolio/static/js/2.ba8e284e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b346e50d.js",
     "static/js/2.ba8e284e.chunk.js",
-    "static/css/main.23153c88.chunk.css",
-    "static/js/main.142909fe.chunk.js"
+    "static/css/main.190433a5.chunk.css",
+    "static/js/main.b441ef38.chunk.js"
   ]
 }
