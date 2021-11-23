@@ -10,7 +10,7 @@ const about = {
   role: 'Web Developer',
   description:
     'Passionate on Web Development, has strong analytical and thinking skills and loves coding ❤. Currently exploring and willing to learn new things and currently learning on React Native Development. ',
-  // resume: 'https://example.com',
+  resume: 'https://drive.google.com/file/d/15q304EGY8LbQbe3SPve1zfhrGNmY6O3N/view?usp=sharing',
   social: {
     linkedin: 'https://linkedin.com/in/gerardosociasjr',
     github: 'https://github.com/gerardosocias29/',
@@ -39,6 +39,48 @@ const projects = [
 ]
 
 const experiences = [
+  {
+    name: 'Incramind Development Inc.',
+    position: 'Software Developer',
+    year: 'August 2020 - November 2021',
+    description: 'Build website extensions, facebook api, develop website themes and maintain website stability using their own environment.',
+    stack:[
+      {
+        name: 'HTML',
+        icon: 'html5'
+      },
+      {
+        name: 'CSS',
+        icon: 'css3'
+      },
+      {
+        name: 'JavaScript',
+        icon: 'js'
+      },
+      {
+        name: 'PHP',
+        icon: 'php'
+      },
+      {
+        name: 'AngularJS',
+        icon: 'angular'
+      },
+      {
+        name: 'Docker',
+        icon: 'docker'
+      },
+      {
+        name: 'Git',
+        icon: 'git'
+      },
+      {
+        name: 'Linux',
+        icon: 'linux'
+      },
+    ],
+    color: '#ff7f00',
+    image: 'test.png',
+  },
   {
     name: 'Gwion Solutions',
     position: 'Web Developer',
@@ -79,48 +121,6 @@ const experiences = [
       },
     ],
     color: '#ff8d00',
-    image: 'test.png',
-  },
-  {
-    name: 'Incramind Development Inc.',
-    position: 'Software Developer',
-    year: 'August 2020 - Present',
-    description: 'Build website extensions, facebook api, develop website themes and maintain website stability using their own environment.',
-    stack:[
-      {
-        name: 'HTML',
-        icon: 'html5'
-      },
-      {
-        name: 'CSS',
-        icon: 'css3'
-      },
-      {
-        name: 'JavaScript',
-        icon: 'js'
-      },
-      {
-        name: 'PHP',
-        icon: 'php'
-      },
-      {
-        name: 'AngularJS',
-        icon: 'angular'
-      },
-      {
-        name: 'Docker',
-        icon: 'docker'
-      },
-      {
-        name: 'Git',
-        icon: 'git'
-      },
-      {
-        name: 'Linux',
-        icon: 'linux'
-      },
-    ],
-    color: '#ff7f00',
     image: 'test.png',
   },
 ]
