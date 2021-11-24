@@ -1,7 +1,16 @@
 import uniqid from 'uniqid'
+import SkillBar from 'react-skillbars'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { skills } from '../../portfolio'
-import './Skills.css'
+import { skills, skillbars } from '../../portfolio'
+import './Skills.css';
+
+const colors = {
+  "bar": "#3498db",
+  "title": {
+    "text": "#fff",
+    "background": "#2980b9"
+  }
+}
 
 const Skills = () => {
   if (!skills.length) return null
@@ -16,6 +25,7 @@ const Skills = () => {
           </li>
         ))}
       </ul>
+      <SkillBar skills={skillbars} colors={colors}/>
     </section>
   )
 }

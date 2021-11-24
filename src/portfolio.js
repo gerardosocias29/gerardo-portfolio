@@ -168,6 +168,10 @@ const skills = [
     icon: 'php'
   },
   {
+    name: 'MySQL',
+    icon: 'mysql'
+  },
+  {
     name: 'AngularJS',
     icon: 'angular'
   },
@@ -189,9 +193,19 @@ const skills = [
   },
 ]
 
+const skillbars = [
+  {type: "PHP", level: 80},
+  {type: "Java", level: 70},
+  {type: "Javascript", level: 65},
+  {type: "MySQL", level: 65},
+  {type: "jQuery", level: 60},
+  {type: "AngularJS", level: 50},
+  {type: "React", level: 30},
+]
+
 const contact = {
   // email is optional - if left empty Contact section won't show up
   email: 'g.socias29@gmail.com',
 }
 
-export { header, about, projects, educations, skills, contact, experiences }
+export { header, about, projects, educations, skills, skillbars, contact, experiences }

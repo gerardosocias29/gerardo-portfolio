@@ -5,9 +5,34 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  margin-bottom: 1.5rem;
 }
 
 .skills__list-item {
   margin: 0.5em;
   font-size: 1rem !important;
 }
+
+.skillbar {
+	box-shadow: rgb(0 0 0 / 15%) 0px 3px 3px 0px;
+	transition: transform 0.2s ease-in-out;
+}
+.skillbar:hover {
+	transform: translateY(-4px);
+}
+
+.skillbar-bar {
+	background: var(--clr-primary) !important;
+	border-radius: 0px 3px 3px 0px !important;
+}
+
+.skillbar-title span {
+	background: var(--clr-bg-alt) !important;
+	border-radius: 0px !important; 
+    color: var(--clr-fg-alt);
+}
+
+.skillbar-percent {
+	color: var(--clr-fg) !important;
+}
+
