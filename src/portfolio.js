@@ -10,7 +10,7 @@ const about = {
   role: 'Web Developer',
   description:
     'Passionate on Web Development, has strong analytical and thinking skills and loves coding ❤. Currently exploring and willing to learn new things and currently learning on React Native Development. ',
-  resume: 'https://drive.google.com/file/d/15q304EGY8LbQbe3SPve1zfhrGNmY6O3N/view?usp=sharing',
+  resume: 'https://drive.google.com/file/d/1YSZ9BRmyMsVSjzlwxBhT11Ge3wQkPhSN/view?usp=sharing',
   social: {
     linkedin: 'https://linkedin.com/in/gerardosociasjr',
     github: 'https://github.com/gerardosocias29/',
@@ -40,6 +40,52 @@ const projects = [
 
 const experiences = [
   {
+    name: 'Seditio Asia Inc.',
+    position: 'Web Developer',
+    year: 'Jan 2022 - Present',
+    description: 'Responsible for maintaining and developing additional features on the web systems, database management, and cooperating with web designer to match visual design intent.',
+    stack:[
+      {
+        name: 'HTML',
+        icon: 'html5'
+      },
+      {
+        name: 'CSS',
+        icon: 'css3-alt'
+      },
+      {
+        name: 'Sass',
+        icon: 'sass'
+      },
+      {
+        name: 'JavaScript',
+        icon: 'js'
+      },
+      {
+        name: 'PHP',
+        icon: 'php'
+      },
+      {
+        name: 'Github',
+        icon: 'github'
+      },
+      {
+        name: 'Linux',
+        icon: 'linux'
+      },
+      {
+        name: 'Laravel',
+        icon: 'laravel'
+      },
+      {
+        name: 'Gulp',
+        icon: 'gulp'
+      },
+    ],
+    color: '#1e3161',
+    image: 'test.png',
+  },
+  {
     name: 'Incramind Development Inc.',
     position: 'Software Developer',
     year: 'August 2020 - November 2021',
@@ -51,7 +97,7 @@ const experiences = [
       },
       {
         name: 'CSS',
-        icon: 'css3'
+        icon: 'css3-alt'
       },
       {
         name: 'JavaScript',
@@ -93,7 +139,7 @@ const experiences = [
       },
       {
         name: 'CSS',
-        icon: 'css3'
+        icon: 'css3-alt'
       },
       {
         name: 'JavaScript',
@@ -157,7 +203,7 @@ const skills = [
   },
   {
     name: 'CSS',
-    icon: 'css3'
+    icon: 'css3-alt'
   },
   {
     name: 'JavaScript',
@@ -191,13 +237,21 @@ const skills = [
     name: 'React',
     icon: 'react'
   },
+  {
+    name: 'Sass',
+    icon: 'sass'
+  },
+  {
+    name: 'Gulp',
+    icon: 'gulp'
+  },
 ]
 
 const skillbars = [
   {type: "PHP", level: 80},
   {type: "Java", level: 70},
-  {type: "Javascript", level: 65},
-  {type: "MySQL", level: 65},
+  {type: "Javascript", level: 55},
+  {type: "MySQL", level: 50},
   {type: "jQuery", level: 60},
   {type: "AngularJS", level: 50},
   {type: "React", level: 30},
