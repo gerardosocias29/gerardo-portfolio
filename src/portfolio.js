@@ -253,6 +253,11 @@ const skillbars = [
   {type: "Javascript", level: 65},
   {type: "MySQL", level: 50},
   {type: "jQuery", level: 65},
+  {type: "PHP", level: 80},
+  {type: "Java", level: 70},
+  {type: "Javascript", level: 55},
+  {type: "MySQL", level: 50},
+  {type: "jQuery", level: 60},
   {type: "AngularJS", level: 50},
   {type: "React", level: 30},
 ]
