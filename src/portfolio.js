@@ -10,7 +10,7 @@ const about = {
   role: 'Web Developer',
   description:
     'Passionate on Web Development, has strong analytical and thinking skills and loves coding ❤. Currently exploring and willing to learn new things and currently learning on React Native Development. ',
-  resume: 'https://drive.google.com/file/d/1YSZ9BRmyMsVSjzlwxBhT11Ge3wQkPhSN/view?usp=sharing',
+  resume: 'https://drive.google.com/file/d/17r7_q1RW4NOujFCoBQPDY3zxuEDQzFFr/view?usp=sharing',
   social: {
     linkedin: 'https://linkedin.com/in/gerardosociasjr',
     github: 'https://github.com/gerardosocias29/',
