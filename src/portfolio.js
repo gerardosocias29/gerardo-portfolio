@@ -41,7 +41,7 @@ const projects = [
 const experiences = [
   {
     name: 'Seditio Asia Inc.',
-    position: 'Web Developer',
+    position: 'Junior Web Developer',
     year: 'Jan 2022 - Present',
     description: 'Responsible for maintaining and developing additional features on the web systems, database management, and cooperating with web designer to match visual design intent.',
     stack:[
@@ -83,6 +83,7 @@ const experiences = [
       },
     ],
     color: '#1e3161',
+    color2: '#5183ff',
     image: 'test.png',
   },
   {
@@ -125,6 +126,7 @@ const experiences = [
       },
     ],
     color: '#ff7f00',
+    color2: '#ff7f00',
     image: 'test.png',
   },
   {
@@ -167,6 +169,7 @@ const experiences = [
       },
     ],
     color: '#ff8d00',
+    color2: '#ff8d00',
     image: 'test.png',
   },
 ]
