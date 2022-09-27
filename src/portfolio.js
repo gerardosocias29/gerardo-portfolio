@@ -35,6 +35,27 @@ const projects = [
     ],
     sourceCode: 'https://github.com/gerardosocias29/gerardo-portfolio',
     livePreview: '/',
+  },
+  {
+    name: 'Gnonymous Chat',
+    description:
+      'An experimental anonymous chat.',
+    stack: [
+      {
+        name: 'Laravel',
+        icon: 'laravel',
+      },
+      {
+        name: 'PHP',
+        icon: 'php',
+      },
+      {
+        name: 'JavaScript',
+        icon: 'javascript',
+      }
+    ],
+    sourceCode: 'https://github.com/gerardosocias29/gnonymous-chat',
+    livePreview: '/',
   }
 ]
 

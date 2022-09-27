@@ -1,13 +1,13 @@
 {
-  "files": {
-    "main.css": "/gerardo-portfolio/static/css/main.a6129482.css",
-    "main.js": "/gerardo-portfolio/static/js/main.7dbde625.js",
-    "index.html": "/gerardo-portfolio/index.html",
-    "main.a6129482.css.map": "/gerardo-portfolio/static/css/main.a6129482.css.map",
-    "main.7dbde625.js.map": "/gerardo-portfolio/static/js/main.7dbde625.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.a6129482.css",
-    "static/js/main.7dbde625.js"
-  ]
+  "main.css": "/gerardo-portfolio/static/css/main.bf20e711.chunk.css",
+  "main.js": "/gerardo-portfolio/static/js/main.caf7bf3b.chunk.js",
+  "main.js.map": "/gerardo-portfolio/static/js/main.caf7bf3b.chunk.js.map",
+  "static/js/1.536ef3e3.chunk.js": "/gerardo-portfolio/static/js/1.536ef3e3.chunk.js",
+  "static/js/1.536ef3e3.chunk.js.map": "/gerardo-portfolio/static/js/1.536ef3e3.chunk.js.map",
+  "runtime~main.js": "/gerardo-portfolio/static/js/runtime~main.2f167904.js",
+  "runtime~main.js.map": "/gerardo-portfolio/static/js/runtime~main.2f167904.js.map",
+  "static/css/main.bf20e711.chunk.css.map": "/gerardo-portfolio/static/css/main.bf20e711.chunk.css.map",
+  "index.html": "/gerardo-portfolio/index.html",
+  "precache-manifest.c065aff5f4dc36e9fc01566e6a95efa9.js": "/gerardo-portfolio/precache-manifest.c065aff5f4dc36e9fc01566e6a95efa9.js",
+  "service-worker.js": "/gerardo-portfolio/service-worker.js"
 }
