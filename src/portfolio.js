@@ -184,21 +184,6 @@ const educations = [
   }
 ]
 
-const skill = [
-  'HTML',
-  'CSS',
-  'JavaScript',
-  'TypeScript',
-  'React',
-  'Redux',
-  'SASS',
-  'Material UI',
-  'Git',
-  'CI/CD',
-  'Jest',
-  'Enzyme',
-]
-
 const skills = [
   {
     name: 'HTML',

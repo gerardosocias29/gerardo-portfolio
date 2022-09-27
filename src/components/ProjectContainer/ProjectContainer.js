@@ -1,3 +1,4 @@
+import React from 'react'
 import uniqid from 'uniqid'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import GitHubIcon from '@material-ui/icons/GitHub'

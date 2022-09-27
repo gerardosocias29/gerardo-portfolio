@@ -1,4 +1,4 @@
-import uniqid from 'uniqid'
+import React from 'react'
 import './EducationContainer.css'
 
 const EducationContainer = ({ education }) => (

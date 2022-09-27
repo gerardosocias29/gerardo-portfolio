@@ -1,3 +1,4 @@
+import React from 'react'
 import uniqid from 'uniqid'
 import SkillBar from 'react-skillbars'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'

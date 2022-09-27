@@ -1,3 +1,4 @@
+import React from 'react'
 import uniqid from 'uniqid'
 import { educations } from '../../portfolio'
 import EducationContainer from '../EducationContainer/EducationContainer'

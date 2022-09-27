@@ -1,4 +1,4 @@
-import { useContext } from 'react'
+import React, { useContext } from 'react'
 
 import uniqid from 'uniqid'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
