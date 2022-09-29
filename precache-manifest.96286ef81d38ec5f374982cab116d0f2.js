@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "32707ba0b19dfb942163",
-    "url": "/gerardo-portfolio/static/css/main.bf20e711.chunk.css"
+    "revision": "72493744c80b2b2fa050",
+    "url": "/gerardo-portfolio/static/css/main.1d6ffe40.chunk.css"
   },
   {
-    "revision": "32707ba0b19dfb942163",
-    "url": "/gerardo-portfolio/static/js/main.32707ba0.chunk.js"
+    "revision": "72493744c80b2b2fa050",
+    "url": "/gerardo-portfolio/static/js/main.72493744.chunk.js"
   },
   {
     "revision": "536ef3e3e4a21289137a",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/gerardo-portfolio/static/js/runtime~main.2f167904.js"
   },
   {
-    "revision": "9d83cba8d7fc6306233480cd3ba2b947",
+    "revision": "5e7fc1f1f8eb1bff8749b9164394a393",
     "url": "/gerardo-portfolio/index.html"
   }
 ];
