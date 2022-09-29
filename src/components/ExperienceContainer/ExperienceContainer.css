@@ -15,6 +15,10 @@
   transform: translateY(-7px);
 }
 
+.experience__image {
+  width: 100px;
+}
+
 h3.experience__name {
   color: var(--clr-primary);
 }

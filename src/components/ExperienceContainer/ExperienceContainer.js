@@ -9,6 +9,7 @@ const ExperienceContainer = ({experience}) => {
   const [{ themeName }] = useContext(ThemeContext)
   return (
     <div className='experience'>
+      <img className='experience__image' src={`images/${experience.image}`}></img>
       <h3 className="experience__name"  style={{color: `${ (themeName == 'dark' ? experience.color2 : experience.color) }`}}>{experience.name}</h3>
       <p className='experience__position'>{experience.position}</p>
       <p className='experience__year'>{experience.year}</p>

@@ -105,7 +105,7 @@ const experiences = [
     ],
     color: '#1e3161',
     color2: '#5183ff',
-    image: 'test.png',
+    image: 'seditio.png',
   },
   {
     name: 'Incramind Development Inc.',
@@ -148,7 +148,7 @@ const experiences = [
     ],
     color: '#ff7f00',
     color2: '#ff7f00',
-    image: 'test.png',
+    image: 'incramind.png',
   },
   {
     name: 'Gwion Solutions',
@@ -191,7 +191,7 @@ const experiences = [
     ],
     color: '#ff8d00',
     color2: '#ff8d00',
-    image: 'test.png',
+    image: 'gwion.png',
   },
 ]
 

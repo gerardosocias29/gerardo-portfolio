@@ -23,6 +23,7 @@ const App = () => {
 
   return (
     <div id='top' className={`${themeName} app`}>
+      
       <Header />
 
       <main>
@@ -36,6 +37,7 @@ const App = () => {
 
       <ScrollToTop />
       <Footer />
+      <div id="background" class="background"></div>
     </div>
   )
 }
