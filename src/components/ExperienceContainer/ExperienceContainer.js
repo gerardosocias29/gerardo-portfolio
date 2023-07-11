@@ -14,7 +14,7 @@ const ExperienceContainer = ({experience}) => {
       <p className='experience__position'>{experience.position}</p>
       <p className='experience__year'>{experience.year}</p>
       <p className='experience__description'>{experience.description}</p>
-      {experience.stack && (
+      {/* {experience.stack && (
         <ul className='experience__stack'>
           {experience.stack.map((item) => (
             <li key={uniqid()} className='experience__stack-item'>
@@ -22,7 +22,7 @@ const ExperienceContainer = ({experience}) => {
             </li>
           ))}
         </ul>
-      )}
+      )} */}
     </div>
   )
 }

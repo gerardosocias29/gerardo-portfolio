@@ -7,10 +7,10 @@ const header = {
 const about = {
   // all the properties are optional - can be left empty or deleted
   name: 'Gerardo Socias Jr.',
-  role: 'Web Developer',
+  role: '<Software / Web Developer>',
   description:
-    'Passionate on Web Development, has strong analytical and thinking skills and loves coding ❤. Currently exploring and willing to learn new things and currently learning on React Native Development. ',
-  resume: 'https://drive.google.com/file/d/17r7_q1RW4NOujFCoBQPDY3zxuEDQzFFr/view?usp=sharing',
+    'Passionate about Web Development, I possess strong analytical and thinking skills, and have a genuine love for coding. I am constantly exploring new technologies and platforms, and I am always eager to learn new things. One of my main goals is to constantly improve my talent and skills in the field of web development.',
+  resume: 'https://bit.ly/GerardoResumePdf',
   social: {
     linkedin: 'https://linkedin.com/in/gerardosociasjr',
     github: 'https://github.com/gerardosocias29/',
@@ -105,7 +105,7 @@ const experiences = [
     ],
     color: '#1e3161',
     color2: '#5183ff',
-    image: 'seditio.png',
+    image: 'seditio-preview.png',
   },
   {
     name: 'Incramind Development Inc.',
@@ -148,7 +148,7 @@ const experiences = [
     ],
     color: '#ff7f00',
     color2: '#ff7f00',
-    image: 'incramind.png',
+    image: 'incramind-preview.png',
   },
   {
     name: 'Gwion Solutions',
@@ -191,7 +191,7 @@ const experiences = [
     ],
     color: '#ff8d00',
     color2: '#ff8d00',
-    image: 'gwion.png',
+    image: 'gwion-preview.png',
   },
 ]
 
